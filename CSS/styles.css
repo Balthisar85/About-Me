@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  /* color: #66BFBF; */
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  /* color: #66BFBF; */
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  /* background-color: #66bfbf; */
+  background-color: #a2eae2;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+  /* background-color: #eaf6f6; */
+  background-color: #41aaa8;
+}
+
+.bottom-container  {
+  /* background-color: #f76b8a; */
+  background-color: #b5525c;
+
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  height: 25rem;
+  width: 25rem;
+  margin-top: 1rem;
+}
+
+.skills-icon {
+  height: 25rem;
+  width: 25rem;
+}
+
+.food {
+  height: 25rem;
+  width: 25rem;
+  margin: auto;
+}
+
+.social-icons {
+  height: 5rem;
+  width: 5rem;
+  margin: 2rem 0 0 0;
+}
+
+.social-icons:hover {
+  height: 6rem;
+  width: 6rem;
+}
+
+.icons {
+  font-size: 1rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 550px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
